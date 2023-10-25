@@ -1,10 +1,10 @@
-## Welcome to The Turing Way 👋
+## Welcome to _The Turing Way_ 👋
 
-**Here are some ideas to get you started:**
+_The Turing Way_ is open source and community-led handbook for reproducible, ethical and collaborative data science.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Here are a few ways you can get started:**
+- 📚 Read our [guides](the-turing-way.netlify.app/) for data science and open research
+- ☎️ Join an upcoming [community call or workshop](https://the-turing-way.start.page/)
+- 📣 Check out an [Issue](https://github.com/the-turing-way/the-turing-way/issues) or [Pull Request](https://github.com/the-turing-way/the-turing-way/pulls) 
+- 🫂 Subscribe to our [newsletter](https://tinyletter.com/TuringWay) and join us on our community [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-25ng40psm-rcaEBwhrEzsV4hhR6dz5uA)
+- 👩‍💻 Remember to read our [Contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md)
