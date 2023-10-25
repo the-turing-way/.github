@@ -1,4 +1,4 @@
-## Welcome to _The Turing Way_ 👋
+# Welcome to _The Turing Way_ 👋
 
 _The Turing Way_ is open source and community-led handbook for reproducible, ethical and collaborative data science.
 
