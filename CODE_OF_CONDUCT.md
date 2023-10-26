@@ -1,7 +1,7 @@
 # Code of Conduct
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
-Accordingly, everyone who participates in the Turing Way project is expected to show respect and courtesy to other community members at all times.
+Accordingly, everyone who participates in *The Turing Way* project is expected to show respect and courtesy to other community members at all times.
 
 *The Turing Way* project leaders, Dr. Kirstie Whitaker and Dr. Malvika Sharan are dedicated to a ***welcoming and harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. 
 **We do not tolerate harassment by and/or of members of our community in any form**.
@@ -16,17 +16,17 @@ The last part acknowledges all sources that this Code of Conduct has been built 
 
 ## 1 Code of Conduct: Overview
 
-The Turing Way is a community-oriented and community-led project.
+*The Turing Way* is a community-oriented and community-led project.
 We value the involvement of everyone in the community.
 We are committed to creating a friendly and respectful place for learning, teaching and contributing.
 All participants in our in-person events and online communications are expected to show respect and courtesy to others at all times.
 
-To make clear what is expected, everyone participating in activities associated with the Turing Way project is required to conform to this Code of Conduct.
-This Code of Conduct applies to all spaces managed by the Turing Way project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
+To make clear what is expected, everyone participating in activities associated with *The Turing Way* project is required to conform to this Code of Conduct.
+This Code of Conduct applies to all spaces managed by *The Turing Way* project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
 
 ### Contact for Reporting
 
-The co-lead-investigators of _The Turing Way_ - Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - are responsible for enforcing the Code of Conduct.
+The co-lead-investigators of *The Turing Way* - Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - are responsible for enforcing the Code of Conduct.
 
 If you prefer not to contact the project leads, you may also contact [Anna Krystalli](mailto:a.krystalli@sheffield.ac.uk), who is our ombudsperson.
 
@@ -38,13 +38,13 @@ Reports may be reviewed by other members of the core development team, unless th
 
 # 2 Code of Conduct: Details
 
-The Turing Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
+*The Turing Way* team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
 As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others.
 We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.
 
-Everyone who participates in the Turing Way project activities is required to conform to this Code of Conduct.
-This Code of Conduct applies to all spaces managed by the Turing Way project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
-By participating, contributors indicate their acceptance of the procedures by which the Turing Way project core development team resolves any Code of Conduct incidents, which may include the storage and processing of their personal information.
+Everyone who participates in *The Turing Way* project activities is required to conform to this Code of Conduct.
+This Code of Conduct applies to all spaces managed by *The Turing Way* project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
+By participating, contributors indicate their acceptance of the procedures by which *The Turing Way* project core development team resolves any Code of Conduct incidents, which may include the storage and processing of their personal information.
 
 ## 2.1 Expected Behaviour
 
@@ -122,7 +122,7 @@ A detailed enforcement policy is available in the Enforcement Manual.
 
 ## 4 Report Handling Manual
 
-After receiving a report, the committee members will review the incident report and follow the policies 
+After receiving a report, the committee will review the incident report and follow the policies 
 described in this Report Handling Manual.
 The committee will determine the cause and consequences that violated this Code of Conduct and take further actions.
 
@@ -156,7 +156,7 @@ is not in the scope of this Code of Conduct.
 ### 4.2 If the breach is considered outside the scope of this Code of Conduct
 
 The Code of Conduct should be considered a norm-setting mechanism for all community members including the Turing employees.
-The Code of Conduct committee will assess if the report is within or outside the scope of The Turing Way Code of Conduct enforcement process.
+The Code of Conduct committee will assess if the report is within or outside the scope of *The Turing Way* Code of Conduct enforcement process.
 
 For all incident reports, an internal resolution will be agreed upon using the Enforcement Manual.
 There are two objectives for agreeing on an internal resolution:
@@ -174,11 +174,10 @@ A transparency report will be drafted by the committee and shared with the commu
 
 ### 4.3 If the reportee is an employee of the Turing 
 
-For all incident reports that are considered beyond the scope of the Code of Conduct the Turing Institute's policies, 
-the **employment policies will apply**.
+For all incident reports that are considered beyond the scope of this Code of Conduct, **the Turing Institute's employment policies will apply**.
 
 The committee will **escalate the issue to Kirstie Whitaker** (if not already involved), 
-who is *The Turing Way* project lead and Director of the Tools, Practices and Systems Research Programme at the Turing.
+who is ** project lead and Director of the Tools, Practices and Systems Research Programme at the Turing.
 She will share the report and committee's recommendations with the line manager of the reporter, 
 who will be responsible for taking disciplinary action, such as starting an HR process, formally or informally.
 
@@ -208,7 +207,7 @@ Enforcement of the Code of Conduct should be respectful and not include any hara
 ## 5.1 Urgent Situations: Acting Unilaterally
 
 If the incident involves physical danger or involves a threat to anyone's safety (such as threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
-This can include contacting law enforcement (or other local personnel) and speaking on behalf of the Turing Way team.
+This can include contacting law enforcement (or other local personnel) and speaking on behalf of *The Turing Way* team.
 
 If the act is ongoing, any community member may act immediately, before reaching a consensus, to diffuse the situation.
 In ongoing situations, any member may at their discretion employ any of the tools available in this enforcement manual, including bans and blocks online, or removal from a physical space.
@@ -289,4 +288,4 @@ Citizen Lab based their Code of Conduct on the [xvzf Code of Conduct](http://xvz
 
 We really appreciate the work that all of the communities linked above have put into creating such a well-considered process.
 
-This Code of Conduct is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0 CA) license which means you are free to share and adapt the work so long as the attribution to Kirstie Whitaker and the Turing Way community is retained, along with the attribution to the Carpentries, the Alan Turing Institute Data Study Group organising team, Citizen Lab and the other resources.
+This Code of Conduct is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0 CA) license which means you are free to share and adapt the work so long as the attribution to Kirstie Whitaker and *The Turing Way* community is retained, along with the attribution to the Carpentries, the Alan Turing Institute Data Study Group organising team, Citizen Lab and the other resources.
