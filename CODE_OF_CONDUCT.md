@@ -178,7 +178,7 @@ For all incident reports that are considered beyond the scope of this Code of Co
 
 The committee will **escalate the issue to Kirstie Whitaker** (if not already involved), 
 who is ** project lead and Director of the Tools, Practices and Systems Research Programme at the Turing.
-She will share the report and committee's recommendations with the line manager of the reporter, 
+She will share the report and committee's recommendations with the line manager of the reportee, 
 who will be responsible for taking disciplinary action, such as starting an HR process, formally or informally.
 
 The line manager will follow the Turing policies and [the Turing's Code of Conduct policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*), as well as enforcement mechanism, will take precedence over this Code of Conduct enforcement.
