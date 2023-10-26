@@ -155,7 +155,6 @@ is not in the scope of this Code of Conduct.
 
 ### 4.2 If the breach is considered outside the scope of this Code of Conduct
 
-The Code of Conduct should be considered a norm-setting mechanism for all community members, including the Turing employees.
 The Code of Conduct committee will assess if the report is outside the scope of *The Turing Way* Code of Conduct enforcement process.
 
 An internal resolution will be agreed upon using the Enforcement Manual, 
