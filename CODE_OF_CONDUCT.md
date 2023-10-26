@@ -128,9 +128,9 @@ The committee will determine the cause and consequences that violated this Code 
 
 ### 4.1 If the breach is considered within the scope of this Code of Conduct
 
-Community leaders will reach out to the reporter to ask for further information if the 
+The committee will reach out to the reporter to ask for further information if the 
 the submitted report is not complete or needs some additional context.
-Community leaders will also ensure that the person impacted or harmed by the reported incident 
+The committee will also ensure that the person impacted or harmed by the incident report
 is safe and identifies how they can be further supported.
 
 **4.1.1** When the committee decides to meet the reporter, these questions will be used to guide the meeting:
@@ -158,13 +158,14 @@ is not in the scope of this Code of Conduct.
 The Code of Conduct should be considered a norm-setting mechanism for all community members including the Turing employees.
 The Code of Conduct committee will assess if the report is within or outside the scope of The Turing Way Code of Conduct enforcement process.
 
-For all reported incidents, using the Enforcement Manual an internal resolution will be agreed upon to:
+For all incident reports, an internal resolution will be agreed upon using the Enforcement Manual.
+There are two objectives for agreeing on an internal resolution:
 1. provide support for the reporter and the person(s) harmed, and
 2. plan the continued participation of the reportee as per the Enforcement Manual.
 
-Due to the severity of the reported incidents that go beyond norm-setting in *The Turing Way*, an appropriate 
+Due to the severity of the incident reports that go beyond norm-setting in *The Turing Way*, an appropriate 
 (external) authority such as the reportee's employee/line manager will be identified
-who can respond to the reported incident with the appropriate action.
+who can respond to the incident report with the appropriate action.
 The report will be passed to the identified authority with an agreement to receive an update from their enforcement process.
 
 The resolution or decision made by the external authority may or may not have an impact on the internal resolution.
@@ -173,7 +174,7 @@ A transparency report will be drafted by the committee and shared with the commu
 
 ### 4.3 If the reportee is an employee of the Turing 
 
-For all reported incidents that are considered beyond the scope of the Code of Conduct the Turing Institute's policies, 
+For all incident reports that are considered beyond the scope of the Code of Conduct the Turing Institute's policies, 
 the **employment policies will apply**.
 
 The committee will **escalate the issue to Kirstie Whitaker** (if not already involved), 
