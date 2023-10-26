@@ -133,7 +133,7 @@ the submitted report is not complete or needs some additional context.
 The committee will also ensure that the person impacted or harmed by the incident report
 is safe and identifies how they can be further supported.
 
-**4.1.1** When the committee decides to meet the reporter, these questions will be used to guide the meeting:
+**4.1.1** When the committee decides to meet the reportee, these questions will be used to guide the meeting:
 - What happened?
 - What were you thinking at the time?
 - Who has been affected by what you have done? In what way?
