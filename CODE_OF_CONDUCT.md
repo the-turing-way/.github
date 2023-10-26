@@ -107,16 +107,104 @@ You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@t
 
 If you believe someone is in physical danger, please contact the appropriate emergency responders.
 
-## 3.4 Code of Conduct Enforcement
+## 3.4 Report handling 
+
+A detailed report handling policy is available in the Report Handling Manual.
+
+## 3.5 Code of Conduct Enforcement
 
 A detailed enforcement policy is available in the Enforcement Manual.
 
-# 4 Enforcement Manual
+## 3.6 Terminology Used in Report Handling and Enforcement Manuals
+
+* Reporter: Person reporting an incident.
+* Reportee: Person being reported.
+
+## 4 Report Handling Manual
+
+After receiving a report, the committee members will review the incident report and follow the policies 
+described in this Report Handling Manual.
+The committee will determine the cause and consequences that violated this Code of Conduct and take further actions.
+
+### 4.1 If the breach is considered within the scope of this Code of Conduct
+
+Community leaders will reach out to the reporter to ask for further information if the 
+the submitted report is not complete or needs some additional context.
+Community leaders will also ensure that the person impacted or harmed by the reported incident 
+is safe and identifies how they can be further supported.
+
+**4.1.1** When the committee decides to meet the reporter, these questions will be used to guide the meeting:
+- What happened?
+- What were you thinking at the time?
+- Who has been affected by what you have done? In what way?
+- What do you think you need to do to make things right?
+- Knowing what you know, what would you have done differently?
+
+**4.1.2** When the incident in question inflicted harm on another person, additional 
+questions will be asked on behalf of the person(s) harmed:
+- What did you think when you realized what had happened?
+- What impact has this incident had on you and others?
+- What has been the hardest thing for you?
+- What do you think needs to happen to make things right?
+
+The committee may follow up with reportee or reporter after this discussion 
+with any additional questions to help them reach a resolution and must note feedback for the record.
+
+Mediating interaction or communication between reporter and reportee 
+is not in the scope of this Code of Conduct.
+
+### 4.2 If the breach is considered outside the scope of this Code of Conduct
+
+The Code of Conduct should be considered a norm-setting mechanism for all community members including the Turing employees.
+The Code of Conduct committee will assess if the report is within or outside the scope of The Turing Way Code of Conduct enforcement process.
+
+For all reported incidents, using the Enforcement Manual an internal resolution will be agreed upon to:
+1. provide support for the reporter and the person(s) harmed, and
+2. plan the continued participation of the reportee as per the Enforcement Manual.
+
+Due to the severity of the reported incidents that go beyond norm-setting in *The Turing Way*, an appropriate 
+(external) authority such as the reportee's employee/line manager will be identified
+who can respond to the reported incident with the appropriate action.
+The report will be passed to the identified authority with an agreement to receive an update from their enforcement process.
+
+The resolution or decision made by the external authority may or may not have an impact on the internal resolution.
+
+A transparency report will be drafted by the committee and shared with the community where appropriate.
+
+### 4.3 If the reportee is an employee of the Turing 
+
+For all reported incidents that are considered beyond the scope of the Code of Conduct the Turing Institute's policies, 
+the **employment policies will apply**.
+
+The committee will **escalate the issue to Kirstie Whitaker** (if not already involved), 
+who is *The Turing Way* project lead and Director of the Tools, Practices and Systems Research Programme at the Turing.
+She will share the report and committee's recommendations with the line manager of the reporter, 
+who will be responsible for taking disciplinary action, such as starting an HR process, formally or informally.
+
+The line manager will follow the Turing policies and [the Turing's Code of Conduct policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=0&utm_source=interact&utm_medium=category_search&utm_term=*), as well as enforcement mechanism, will take precedence over this Code of Conduct enforcement.
+
+All the Turing employees have the obligation to read and understand the [HR/People policies](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=3439&utm_source=interact&utm_medium=general_search&utm_term=HR+policies), which include, but not limited to:
+- [Workplace Guidelines](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2427&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Code of Conduct Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2174&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Disciplinary Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2215&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Equality and diversity policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2175&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Whistleblowing (Raising Concerns) Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2189&SearchId=23863&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Complaints policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2214&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Bullying and harassment Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2173&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Research Misconduct Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2202&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Safeguarding policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2243&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Grievance procedure](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2217&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Wellbeing support services](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2228&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Research Ethics Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2241&SearchId=0&utm_source=interact&utm_medium=general_search&utm_term=code+of+conduct)
+- [Data protection policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2184&SearchId=23865&utm_source=interact&utm_medium=general_search&utm_term=data+protection)
+- [Conflict of Interest Policy](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2179&SearchId=183372&utm_source=interact&utm_medium=quick_search&utm_term=conflict+o)
+
+# 5 Enforcement Manual
 
 This is the enforcement manual used by the Code of Conduct Committee when they respond to an issue to make sure they are consistent and fair.
 Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
-## 4.1 Urgent Situations: Acting Unilaterally
+## 5.1 Urgent Situations: Acting Unilaterally
 
 If the incident involves physical danger or involves a threat to anyone's safety (such as threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
 This can include contacting law enforcement (or other local personnel) and speaking on behalf of the Turing Way team.
@@ -126,9 +214,9 @@ In ongoing situations, any member may at their discretion employ any of the tool
 
 In situations where an individual community member acts unilaterally, they must inform the committee as soon as possible, and report their actions for review within 24 hours.
 
-## 4.2 Less-Urgent Situations
+## 5.2 Less-Urgent Situations
 
-Upon receiving a report of an incident, the CoC committee will review the incident and determine, to the best of their ability:
+Upon receiving a report of an incident, the Code of Conduct committee will review the incident and determine, to the best of their ability:
 
 - whether this is an ongoing situation
 - whether there is a threat to anyone's physical safety
@@ -137,18 +225,18 @@ Upon receiving a report of an incident, the CoC committee will review the incide
 - who, if anyone, was the bad actor
 
 This information will be collected either in person or in writing.
-The CoC committee will provide a written summary of the information surrounding the incident.
+The Code of Conduct committee will provide a written summary of the information surrounding the incident.
 All participants will be anonymised in the summary report, referred to as "Community Member 1", "Community Member 2", or "Research Team Member 1".
 The "de-anonymising key" will be kept in a separate file and only accessed to link repeated reports against the same person over time.
 
-The CoC committee will aim to have a resolution agreed upon within one week.
-In the event that a resolution can't be determined in that time, a member of the CoC committee will respond to the reporter(s) with an update and projected timeline for resolution.
+The Code of Conduct committee will aim to have a resolution agreed upon within one week.
+In the event that a resolution can't be determined in that time, a member of the Code of Conduct committee will respond to the reporter(s) with an update and projected timeline for resolution.
 
-## 4.4 Resolutions
+## 5.4 Resolutions
 
-The CoC committee will seek to agree on a resolution by consensus of all members investigating the report in question.
+The Code of Conduct committee will seek to agree on a resolution by consensus of all members investigating the report in question.
 If the committee cannot reach a consensus and deadlocks for over a week, Kirstie Whitaker will break the tie.
-If any of the committee members are unable to take part in the discussion due to a conflict of interest, Anna Krystalli, as an external member of the CoC committee, will make the decision.
+If any of the committee members are unable to take part in the discussion due to a conflict of interest, Anna Krystalli, as an external member of the Code of Conduct committee, will make the decision.
 
 Possible responses may include:
 
@@ -168,15 +256,22 @@ Possible responses may include:
   The committee will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained.
   If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.
 
-Once a resolution is agreed upon, but before it is enacted, a member of the CoC committee will contact the original reporter and any other affected parties and explain the proposed resolution.
-The CoC committee member will ask if this resolution is acceptable, and must note feedback for the record.
-However, the CoC committee is not required to act on this feedback.
+Once a resolution is agreed upon, but before it is enacted, a member of the Code of Conduct committee will contact the original reporter and any other affected parties and explain the proposed resolution.
+The Code of Conduct committee member will ask if this resolution is acceptable, and must note feedback for the record.
+However, the Code of Conduct committee is not required to act on this feedback.
 
-## 4.5 Conflicts of Interest
+## 6 Conflict of Interest 
 
 If the report is about someone is the committee, please send the report to the other individuals on the committee.
 
-# 5 Acknowledgement
+If a committee member identifies their link with a reporter or reportee that may affect their participation 
+in the ongoing issue (such as introducing personal bias or impacting their well-being), they will declare their 
+Conflict of Interest and remove themselves from any discussion related to the report handling.
+
+All reports will be kept confidential with details shared only with the people involved in the 
+report handling and enforcement.
+
+# 7 Acknowledgement
 
 This code is adapted from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)  with sections from the [Alan Turing Institute Data Study Group Code of Conduct](https://docs.google.com/document/d/1iv2cizNPUwtEhHqaezAzjIoKkaIX02f7XbYmFMXDTGY/edit).
 Both are used under the Creative Commons Attribution license.
@@ -189,7 +284,7 @@ Contributors of these revised documents are Ethan White, Kari L. Jordan, Karin L
 Additional language was added by Otter Tech from the PyCon U.S. 2018 Code of Conduct (licensed CC BY 3.0).
 
 The Turing Institute Data Study Group Code of Conduct was heavily adapted from the [Citizen Lab Summer Institute 2017 Code of Conduct](https://citizenlab.ca/summerinstitute/codeofconduct.html) and used under a CC BY 2.5 CA license.
-Citizen Lab based their Code of Conduct on the [xvzf Code of Conduct](http://xvzf.io/#coc), the [Contributor Covenant](http://contributor-covenant.org/), the [Django Code of Conduct and Reporting Guide](https://www.djangoproject.com/conduct/) and we are also grateful for [this guidance from Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
+Citizen Lab based their Code of Conduct on the [xvzf Code of Conduct](http://xvzf.io/#Code of Conduct), the [Contributor Covenant](http://contributor-covenant.org/), the [Django Code of Conduct and Reporting Guide](https://www.djangoproject.com/conduct/) and we are also grateful for [this guidance from Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
 
 We really appreciate the work that all of the communities linked above have put into creating such a well-considered process.
 
