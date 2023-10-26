@@ -174,9 +174,6 @@ A transparency report will be drafted by the committee and shared with the commu
 ### 4.3 If the breach is considered outside the scope of this Code of Conduct and the reportee is an employee of the Turing
 
 The Code of Conduct should be considered a norm-setting mechanism for all community members, including the Turing employees.
-
-
-
 For all incident reports that are considered beyond the scope of this Code of Conduct, **the Turing Institute's employment policies will apply**.
 
 The committee will **escalate the issue to Kirstie Whitaker** (if not already involved), 
