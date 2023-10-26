@@ -155,11 +155,11 @@ is not in the scope of this Code of Conduct.
 
 ### 4.2 If the breach is considered outside the scope of this Code of Conduct
 
-The Code of Conduct should be considered a norm-setting mechanism for all community members including the Turing employees.
-The Code of Conduct committee will assess if the report is within or outside the scope of *The Turing Way* Code of Conduct enforcement process.
+The Code of Conduct should be considered a norm-setting mechanism for all community members, including the Turing employees.
+The Code of Conduct committee will assess if the report is outside the scope of *The Turing Way* Code of Conduct enforcement process.
 
-For all incident reports, an internal resolution will be agreed upon using the Enforcement Manual.
-There are two objectives for agreeing on an internal resolution:
+An internal resolution will be agreed upon using the Enforcement Manual, 
+taking the following two objectives into account:
 1. provide support for the reporter and the person(s) harmed, and
 2. plan the continued participation of the reportee as per the Enforcement Manual.
 
