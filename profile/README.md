@@ -3,7 +3,7 @@
 _The Turing Way_ is open source and community-led handbook for reproducible, ethical and collaborative data science.
 
 **Here are a few ways you can get started:**
-- 📚 Read our [guides](the-turing-way.netlify.app/) for data science and open research
+- 📚 Read our [guides](https://the-turing-way.netlify.app/) for data science and open research
 - ☎️ Join an upcoming [community call or workshop](https://the-turing-way.start.page/)
 - 🖼️ Download [our images on Zenodo](https://zenodo.org/records/8169292)
 - 📣 Check out an [Issue](https://github.com/the-turing-way/the-turing-way/issues) or [Pull Request](https://github.com/the-turing-way/the-turing-way/pulls) 
