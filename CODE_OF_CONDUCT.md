@@ -124,7 +124,7 @@ A detailed enforcement policy is available in the Enforcement Manual.
 
 After receiving a report, the committee will review the incident report and follow the policies 
 described in this Report Handling Manual.
-The committee will determine the cause and consequences that violated this Code of Conduct and take further actions.
+Using the report handling and enforcement process described in this document, the committee will handle the Code of Conduct and take further actions.
 
 ### 4.1 If the breach has been identified and is considered within the scope of this Code of Conduct
 
