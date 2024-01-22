@@ -109,7 +109,7 @@ If you believe someone is in physical danger, please contact the appropriate eme
 
 ## 3.4 Report handling 
 
-A detailed report handling policy is available in the Report Handling Manual.
+A detailed report handling policy is available in the Report Handling Manual in section 4.
 
 ## 3.5 Code of Conduct Enforcement
 
