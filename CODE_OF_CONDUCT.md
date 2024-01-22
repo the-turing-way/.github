@@ -113,7 +113,7 @@ A detailed report handling policy is available in the Report Handling Manual in 
 
 ## 3.5 Code of Conduct Enforcement
 
-A detailed enforcement policy is available in the Enforcement Manual.
+A detailed enforcement policy is available in the Enforcement Manual in section 5.
 
 ## 3.6 Terminology Used in Report Handling and Enforcement Manuals
 
