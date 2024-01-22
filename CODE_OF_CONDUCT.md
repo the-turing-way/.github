@@ -126,7 +126,7 @@ After receiving a report, the committee will review the incident report and foll
 described in this Report Handling Manual.
 Using the report handling and enforcement process described in this document, the committee will handle the Code of Conduct and take further actions.
 
-### 4.1 If the breach has been identified and is considered within the scope of this Code of Conduct
+### 4.1 If the Report is considered within the scope of this Code of Conduct
 
 The committee will reach out to the reporter to ask for further information if the 
 the submitted report is not complete or needs some additional context.
